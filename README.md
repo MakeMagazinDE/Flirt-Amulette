@@ -9,7 +9,7 @@ Maker Media GmbH
 
 In dem Artikel der Ausgabe 7/24 der Make wird erklärt, wie die Kommunikation mithilfe von ESP-Now und WifiEspNow funktioniert. Anschließend wird eine Bauanleitung für „Flirt-Amulette“ vorgestellt. Diese signalisieren mittels RGB-LEDs, ob und welche anderen Amulette sich in der Nähe befinden. Zudem sind die Amulette in der Lage, einfache Nachrichten auszutauschen, indem ein direkt auf die Amulette gelöteter Taster betätigt wird.
 
-![Picture](https://github.com/MakeMagazinDE/Fraestisch/blob/master/Fraestisch.jpg) 
+![Picture](https://github.com/MakeMagazinDE/Flirt-Amulette/blob/master/Bild%2003%20-%20GitHub.jpg)
 
 Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 7/24 ab Seite XXX](https://www.heise.de/select/make/2019/5/1571592996373573). Hier findet ihr die für die Amulette benötigten Sketches in drei verschiedene Ausführungen:
 
