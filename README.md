@@ -7,7 +7,7 @@ Maker Media GmbH
 # Flirt-Amulette mit ESP-Now
 ### Wir basteln tragbare Schmuckstücke, die über ESP-Now und WifiEspNow miteinander kommunizieren können. 
 
-In dem Artikel der Ausgabe 7/24 der Make wird erklärt, wie die Kommunikation mithilfe von ESP-Now und WifiEspNow funktioniert. Anschließend wird eine Bauanleitung für „Flirt-Amulette“ vorgestellt. Diese signalisieren mittels RGB-LEDs, ob und welche anderen Amulette sich in der Nähe befinden. Zudem sind die Amulette in der Lage, einfache Nachrichten auszutauschen, indem ein direkt auf die Amulette gelöteter Taster betätigt wird.
+In dem Artikel der Ausgabe 7/24 der Make erklären wir, wie die Kommunikation mithilfe von ESP-Now und WifiEspNow funktioniert. Anschließend wird eine Bauanleitung für „Flirt-Amulette“ vorgestellt. Diese signalisieren mittels RGB-LEDs, ob und welche anderen Amulette sich in der Nähe befinden. Zudem sind die Amulette in der Lage, einfache Nachrichten auszutauschen, indem ein direkt auf die Amulette gelöteter Taster betätigt wird.
 
 ![Picture](https://github.com/MakeMagazinDE/Flirt-Amulette/blob/master/Bild%2003%20-%20GitHub.jpg)
 
