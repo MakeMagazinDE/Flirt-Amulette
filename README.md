@@ -11,7 +11,7 @@ In dem Artikel der Ausgabe 7/24 der Make erklären wir, wie die Kommunikation mi
 
 ![Picture](https://github.com/MakeMagazinDE/Flirt-Amulette/blob/master/Bild%2003%20-%20GitHub.jpg)
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 7/24 ab Seite XXX](https://www.heise.de/select/make/2019/5/1571592996373573). Hier findet ihr die für die Amulette benötigten Sketches in drei verschiedene Ausführungen:
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 7/24 ab Seite 34](https://www.heise.de/select/make/2019/5/1571592996373573). Hier findet ihr die für die Amulette benötigten Sketches in drei verschiedene Ausführungen:
 
 Im ersten (Make_ESPnow_minimal) werden die MAC-Adressen der ESPs (alle Typen der Serien ESP8266 und ESP32), auf denen der gleiche Sketch läuft, übertragen und durch unterschiedliche Blinkrhythmen der eingebauten LEDs auf dem Empfängermodul angezeigt.
 
